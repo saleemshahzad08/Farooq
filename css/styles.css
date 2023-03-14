@@ -1,0 +1,219 @@
+body {
+	background-image: url(/images/body.jpg);
+	background-repeat: repeat-y;
+	background-size: cover;
+
+}
+#brandname {
+	color: #FF5;
+	font-weight: 500;
+}
+#brandslogan {
+	color: #FF5;
+	font-weight: 400;
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+.nav-link:hover {
+	text-decoration: underline;
+}
+#jumbo {
+	opacity: 0.9;
+}
+.box-shadow {
+	border: 3px solid black;
+  box-shadow: 5px 10px 18px #FF5;
+}
+.cards {
+	gap: 20px;
+}
+
+.items1 {
+	width: 31%;
+	border-radius: 10px;
+}
+.items1:hover {
+	width: 35%;
+}
+
+.items2 {
+	width: 48%;
+	border-radius: 10px;
+}
+.items2:hover {
+	width: 55%;
+}
+
+.items3 {
+	width: 100%;
+	border-radius: 10px;
+}
+.items3:hover {
+	width: 95%;
+}
+
+.items4 {
+	width: 95%;
+	border-radius: 10px;
+}
+
+.card-links {
+	text-decoration: none;
+}
+a.card-links:hover {
+	color: seagreen !important;	
+}
+.img-fluid {
+	border-radius: 10px;
+}
+
+#hours, #address {
+  line-height: 2;
+}
+
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
+/* -------------------- Grid Setting ----------------- */
+/*
+.grid {
+	display: grid;
+	height: 750px;
+	grid-template-columns: repeat(12, auto);
+	grid-template-rows: repeat(12, auto);
+	gap: 10px;
+}
+
+.items {
+	
+  	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#flyer {
+	grid-row-start: 1;
+	grid-row-end: 13;
+	grid-column-start: 1;
+	grid-column-end: 5;
+	background-image: url(/images/flyer.JPG);
+	background-size: cover;
+}
+#fb {
+	grid-row-start: 1;
+	grid-row-end: 4;
+	grid-column-start: 5;
+	grid-column-end: 13;
+	background-image: url(/images/FB.jpg);
+	background-repeat: no-repeat;
+	background
+}
+#logo {
+	grid-row-start: 4;
+	grid-row-end: 10;
+	grid-column-start: 5;
+	grid-column-end: 11;
+	background-image: url(/images/logo.jpg);
+	background-size: cover;
+}
+#yt {
+	grid-row-start: 10;
+	grid-row-end: 13;
+	grid-column-start: 5;
+	grid-column-end: 13;
+	background-image: url(/images/YT.JPG);
+	background-size: cover;
+}
+#cards {
+	grid-row-start: 4;
+	grid-row-end: 10;
+	grid-column-start: 11;
+	grid-column-end: 13;
+	background-image: url(/images/cards.JPG);
+	background-size: cover;
+}
+*/
+
+
+
+
+/*
+
+* {
+	box-sizing: border-box;
+}
+header {
+	height: 50px;
+}
+#header-nav {
+	background-color: #f05d5d;
+	padding: 0;
+}
+#logo_brand {
+	gap: 20px;
+}
+#logo {
+	background: url('/images/favicon.ico') no-repeat;
+	width: 50px;
+	height: 49px;
+}
+#brand-name {
+	font-size: 1.5em;
+	font-weight: bolder;
+	color: #FF5;
+	text-shadow: 1px 1px 2px black;
+}
+#navbarnav {
+	justify-content: center;
+}
+/*
+#navbarlist {
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF5;
+	text-shadow: 3px 2px 0.8 #FF5;
+} */
+
+/*
+.navbar-nav .nav-link.active {
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF5;
+	text-shadow: 3px 2px 0.8 rgb(70, 70, 63);
+}
+.hover:hover {
+	text-decoration: underline;
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
+#live > a {
+	color: black;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: bold;
+	color: black;
+}
+.fa-magnifying-glass, .fa-circle-play {
+	font-size: 1.5em;
+}
+
+@media only screen and (max-width: 1000px) {
+	.fa-circle-play {
+	font-size: 1.2em;
+}
+
+#live {
+	color: black;
+	text-decoration: none;
+}
+
+@media only screen and (min-width: 992px) {
+	#logo {
+	background: url('../images/logo2.JPG') no-repeat;
+	width: 62px;
+	height: 62px;
+}
+}	*/
